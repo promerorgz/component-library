@@ -2,7 +2,7 @@ Component Library
 
 ## Button API
 
-|hello   	|  there 	|   	|   	|   	|
+|prop   	|  type 	| default  | description  	| 
 |---	|---	|---	|---	|---	|
 |   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
